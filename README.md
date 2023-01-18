@@ -20,7 +20,7 @@ Assertion Statement
 
 Saat menemukan pernyataan, Python mengevaluasi ekspresi yang menyertainya, yang mana diharapkan semoga benar. Jika ekspresi salah, Python memunculkan pengecualian AssertionError. Syntax untuk assert itu adalah : assert Expression[, Arguments] Jika pernyataan gagal, Python menggunakan ArgumentExpression sebagai argumen untuk AssertionError. AssertionError exceptions dapat ditangkap dan ditangani seperti pengecualian lainnya menggunakan try-except statement, tetapi jika dibiarkan, mereka akan menghentikan program dan menghasilkan backtrace.
 
-# Membuat Menu Contac
+# Membuat Menu Contacts
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/115637858/213206783-fa513959-138b-4c98-9515-79647678da81.png)
 
